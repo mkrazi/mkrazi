@@ -2,6 +2,7 @@
 
 🎓 CSE Student @ Government College of Engineering Kannur, Kerala  
 💡 Aspiring Full Stack Developer & Software Engineer
+
 🌐 Passionate about **Web Development** & **Artificial Intelligence / ML**  
 
 ## 🚀 About Me
