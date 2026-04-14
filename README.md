@@ -1,7 +1,7 @@
 # Hi, I'm Muhammed Razi 👋
 
 🎓 CSE Student @ Government College of Engineering Kannur, Kerala  
-💡 Aspiring Software Engineer  
+💡 Aspiring Full Stack Developer & Software Engineer
 🌐 Passionate about **Web Development** & **Artificial Intelligence / ML**  
 
 ## 🚀 About Me
