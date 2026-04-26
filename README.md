@@ -4,18 +4,18 @@
 💡 Aspiring Full Stack Developer & Software Engineer
 🌐 Passionate about **Web Development** & **Artificial Intelligence / ML**  
 
-## 🚀 About Me
+##  About Me
 I build for the web and think in algorithms.  
 I'm fascinated by the crossroads of Web Development and AI —  
 where I believe the most exciting problems of this decade are waiting to be solved.
 
-## 📌 Projects
+##  Projects
 - 🗂️ [Student Management System](https://github.com/mkrazi/Student-Management-System-Java-Swing) — Desktop app built with Java Swing & MySQL
 
-## 🏆 Certifications
+##  Certifications
 - 🐍 Python Foundation — Infosys Springboard
 
-## 📫 Connect With Me
+##  Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/muhammedrazi-8241a0327)
 - 📧 razimkmuhammed@gmail.com
 
