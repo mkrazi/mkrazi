@@ -16,7 +16,7 @@ where I believe the most exciting problems of this decade are waiting to be solv
 - 🐍 Python Foundation — Infosys Springboard
 
 ##  Connect With Me
-- 💼 [LinkedIn](www.linkedin.com/in/muhammed-razi-mk)
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammed-razi-mk/)
 - 📧 razimkmuhammed@gmail.com
 
 <!--
