@@ -125,7 +125,7 @@ Flutter + SQLite
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mkrazi&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mkrazi&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?username=mkrazi&theme=tokyonight"/>
 
 </p>
 
