@@ -131,7 +131,7 @@ Flutter + SQLite
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedRaziMK&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkrazi&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -141,7 +141,7 @@ Flutter + SQLite
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MuhammedRaziMK&theme=tokyonight&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mkrazi&theme=tokyonight&row=1&column=7"/>
 
 </p>
 
@@ -151,7 +151,7 @@ Flutter + SQLite
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammedRaziMK&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mkrazi&theme=tokyo-night"/>
 
 </p>
 
