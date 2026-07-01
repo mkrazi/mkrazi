@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;Computer+Science+Student;Building+Real-World+Applications;Always+Learning+New+Technologies" />
 
-<img src="https://komarev.com/ghpvc/?username=MuhammedRaziMK&label=Profile+Views&color=6C63FF&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=mkrazi&label=Profile+Views&color=6C63FF&style=for-the-badge" />
 
 </div>
 
