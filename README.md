@@ -12,7 +12,7 @@
 
 ---
 
-# 💫 About Me
+#  About Me
 
 ```yaml
 Name: Muhammed Razi 
@@ -37,12 +37,12 @@ Goal:
 
 ---
 
-# 🚀 Portfolio
+#  Portfolio
 
 ### 🌐 Portfolio
 Coming Soon...
 
-### 💼 LinkedIn
+### LinkedIn
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
 
@@ -52,7 +52,7 @@ muhammed@example.com
 
 ---
 
-# 💻 Tech Stack
+#  Tech Stack
 
 ### Languages
 
@@ -80,9 +80,9 @@ muhammed@example.com
 
 ---
 
-# 🚀 Current Projects
+#  Current Projects
 
-## 📱 Billeez Admin Portal
+##  Billeez Admin Portal
 
 > Flutter-based Admin Dashboard
 
@@ -94,7 +94,7 @@ muhammed@example.com
 
 ---
 
-## 🎓 Student Management System
+##  Student Management System
 
 - Java Swing
 - MySQL
@@ -103,7 +103,7 @@ muhammed@example.com
 
 ---
 
-## ⚙️ Gem5 COA Simulation
+##  Gem5 COA Simulation
 
 Performance Analysis
 
@@ -113,13 +113,13 @@ Performance Analysis
 
 ---
 
-## 📱 Shop Management App
+##  Shop Management App
 
 Flutter + SQLite
 
 ---
 
-# 📊 GitHub Analytics
+# GitHub Analytics
 
 <p align="center">
 
@@ -137,7 +137,7 @@ Flutter + SQLite
 
 ---
 
-# 🏆 GitHub Trophies
+#  GitHub Trophies
 
 <p align="center">
 
@@ -147,7 +147,7 @@ Flutter + SQLite
 
 ---
 
-# 📈 Contribution Graph
+#  Contribution Graph
 
 <p align="center">
 
@@ -157,7 +157,7 @@ Flutter + SQLite
 
 ---
 
-# 🌱 Currently Learning
+#  Currently Learning
 
 - Flutter Architecture
 - Firebase
@@ -167,7 +167,7 @@ Flutter + SQLite
 
 ---
 
-# 🎯 Goals for 2026
+#  Goals for 2026
 
 - ✅ Master Flutter
 - ✅ Build Production Apps
@@ -177,7 +177,7 @@ Flutter + SQLite
 
 ---
 
-# 📫 Connect With Me
+# Connect With Me
 
 <p align="left">
 
@@ -199,7 +199,7 @@ Flutter + SQLite
 
 <div align="center">
 
-### 💙 Thanks for visiting my profile!
+### Thanks for visiting my profile!
 
 *"Code. Learn. Build. Repeat."*
 
