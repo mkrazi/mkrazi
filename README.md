@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Muhammed Razi 
+# Hi , I'm Muhammed Razi 
 
 ### 🚀 Flutter Developer • Computer Science Student • AI/ML Enthusiast
 
@@ -44,11 +44,11 @@ Coming Soon...
 
 ### LinkedIn
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-razi-mk/)
 
 ### 📧 Email
 
-muhammed@example.com
+razimkmuhammed@gmail.com
 
 ---
 
@@ -133,17 +133,6 @@ Flutter + SQLite
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkrazi&layout=compact&theme=tokyonight"/>
 
-</p>
-
----
-
-#  GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mkrazi&theme=tokyonight&row=1&column=7"/>
-
-</p>
 
 ---
 
