@@ -123,26 +123,14 @@ Flutter + SQLite
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mkrazi&show_icons=true&theme=tokyonight"/>
+
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mkrazi&theme=tokyonight"/>
 
 </p>
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkrazi&layout=compact&theme=tokyonight"/>
 
 
----
-
-#  Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mkrazi&theme=tokyo-night"/>
-
-</p>
 
 ---
 
@@ -166,25 +154,7 @@ Flutter + SQLite
 
 ---
 
-# Connect With Me
 
-<p align="left">
-
-<a href="YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="YOUR_GITHUB">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
-
----
 
 <div align="center">
 
